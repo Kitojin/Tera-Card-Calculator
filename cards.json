@@ -1,0 +1,1402 @@
+{
+  "Akalath Guardian": {
+    "name": "Akalath Guardian",
+    "cost": "6",
+    "category": "Monster",
+    "type": "Argon",
+    "White": {
+      "pAmp": "3344"
+    },
+    "Green": {
+      "pAmp": "5017"
+    },
+    "Blue": {
+      "pAmp": "6689"
+    }
+  },
+  "Akalath Kashir": {
+    "name": "Akalath Kashir",
+    "cost": "7",
+    "category": "Monster",
+    "type": "Argon",
+    "White": {
+      "mAmp": "3785",
+      "pAmp": "946"
+    },
+    "Green": {
+      "mAmp": "6150",
+      "pAmp": "946"
+    },
+    "Blue": {
+      "mAmp": "8516",
+      "pAmp": "946"
+    }
+  },
+  "Akalath Overseer": {
+    "name": "Akalath Overseer",
+    "cost": "6",
+    "category": "Monster",
+    "type": "Argon",
+    "White": {
+      "pAmp": "916"
+    },
+    "Green": {
+      "pAmp": "1374"
+    },
+    "Blue": {
+      "pAmp": "1832"
+    }
+  },
+  "Akalath Travan": {
+    "name": "Akalath Travan",
+    "cost": "2",
+    "category": "Monster",
+    "type": "Argon",
+    "White": {
+      "pAmp": "1574"
+    },
+    "Green": {
+      "pAmp": "2361"
+    },
+    "Blue": {
+      "pAmp": "3148"
+    }
+  },
+  "Allemantheia": {
+    "name": "Allemantheia",
+    "cost": "6",
+    "category": "Location",
+    "White": {
+      "mCp": "0.04"
+    },
+    "Green": {
+      "mCp": "0.06"
+    },
+    "Blue": {
+      "mCp": "0.08"
+    }
+  },
+  "Antaroth": {
+    "name": "Antaroth",
+    "cost": "4",
+    "category": "Monster",
+    "type": "God",
+    "White": {
+      "mAmp": "1184"
+    },
+    "Green": {
+      "mAmp": "2664"
+    },
+    "Blue": {
+      "mAmp": "4144"
+    }
+  },
+  "Argog": {
+    "name": "Argog",
+    "cost": "5",
+    "category": "Monster",
+    "type": "Beast",
+    "White": {
+      "mAmp": "2873",
+      "pAmp": "718"
+    },
+    "Green": {
+      "mAmp": "4310",
+      "pAmp": "1077"
+    },
+    "Blue": {
+      "mAmp": "5746",
+      "pAmp": "1436"
+    }
+  },
+  "Armored Dragon": {
+    "name": "Armored Dragon",
+    "cost": "3",
+    "category": "Mount",
+    "White": {
+      "mAmp": "1599"
+    },
+    "Green": {
+      "mAmp": "2398"
+    },
+    "Blue": {
+      "mAmp": "3198"
+    }
+  },
+  "Auto-Gardener": {
+    "name": "Auto-Gardener",
+    "cost": "6",
+    "category": "Monster",
+    "type": "Faerie",
+    "White": {
+      "mAmp": "2508"
+    },
+    "Green": {
+      "mAmp": "3762"
+    },
+    "Blue": {
+      "mAmp": "5017"
+    }
+  },
+  "Azart Shaman": {
+    "name": "Azart Shaman",
+    "cost": "4",
+    "category": "Monster",
+    "type": "Mag Creature",
+    "White": {
+      "mAmp": "1384"
+    },
+    "Green": {
+      "mAmp": "1777"
+    },
+    "Blue": {
+      "mAmp": "2369"
+    }
+  },
+  "Azure Essence": {
+    "name": "Azure Essence",
+    "cost": "5",
+    "category": "Gathering",
+    "White": {
+      "mpInc": "255"
+    },
+    "Green": {
+      "mpInc": "382"
+    },
+    "Blue": {
+      "mpInc": "510"
+    }
+  },
+  "Badoask": {
+    "name": "Badoask",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Giant",
+    "White": {
+      "pAmp": "458"
+    },
+    "Green": {
+      "pAmp": "687"
+    },
+    "Blue": {
+      "pAmp": "916"
+    }
+  },
+  "Bahaar": {
+    "name": "Bahaar",
+    "cost": "4",
+    "category": "Monster",
+    "type": "God",
+    "White": {
+      "mAmp": "1777",
+      "pAmp": "1184"
+    },
+    "Green": {
+      "mAmp": "2666",
+      "pAmp": "1777"
+    },
+    "Blue": {
+      "mAmp": "3554",
+      "pAmp": "2369"
+    }
+  },
+  "Batia's Hulk": {
+    "name": "Batia's Hulk",
+    "cost": "7",
+    "category": "Location",
+    "White": {
+      "pCp": "0.04"
+    },
+    "Green": {
+      "pCp": "0.05"
+    },
+    "Blue": {
+      "pCp": "0.07"
+    }
+  },
+  "Blackthorn Spider": {
+    "name": "Blackthorn Spider",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Mag Creature",
+    "White": {
+      "mAmp": "1832"
+    },
+    "Green": {
+      "mAmp": "2748"
+    },
+    "Blue": {
+      "mAmp": "3664"
+    }
+  },
+  "Blood Festival Elin": {
+    "name": "Blood Festival Elin",
+    "cost": "4",
+    "category": "Character",
+    "Green": {
+      "mAmp": "296",
+      "pAmp": "2666"
+    }
+  },
+  "Blood Lord": {
+    "name": "Blood Lord",
+    "cost": "2",
+    "category": "Monster",
+    "type": "Demon",
+    "White": {
+      "mAmp": "1574"
+    },
+    "Green": {
+      "mAmp": "2361"
+    },
+    "Blue": {
+      "mAmp": "3148"
+    }
+  },
+  "Blood Maid": {
+    "name": "Blood Maid",
+    "cost": "5",
+    "category": "Monster",
+    "type": "Demon",
+    "White": {
+      "pAmp": "1436"
+    },
+    "Green": {
+      "pAmp": "2155"
+    },
+    "Blue": {
+      "pAmp": "2873"
+    }
+  },
+  "Catfish": {
+    "name": "Catfish",
+    "cost": "4",
+    "category": "Fish",
+    "White": {
+      "cf": "3"
+    },
+    "Green": {
+      "cf": "5"
+    },
+    "Blue": {
+      "cf": "6"
+    }
+  },
+  "Champion": {
+    "name": "Champion",
+    "cost": "4",
+    "category": "Monster",
+    "type": "Ancestor",
+    "White": {
+      "mAmp": "1184"
+    },
+    "Green": {
+      "mAmp": "2664"
+    },
+    "Blue": {
+      "mAmp": "4144"
+    }
+  },
+  "Champion: Forbidden Arena": {
+    "name": "Champion: Forbidden Arena",
+    "cost": "6",
+    "category": "Location",
+    "White": {
+      "mCp": "0.03"
+    },
+    "Green": {
+      "mCp": "0.05"
+    },
+    "Blue": {
+      "mCp": "0.06"
+    }
+  },
+  "Cobseed": {
+    "name": "Cobseed",
+    "cost": "3",
+    "category": "Gathering",
+    "White": {
+      "mpInc": "153"
+    },
+    "Green": {
+      "mpInc": "229"
+    },
+    "Blue": {
+      "mpInc": "305"
+    }
+  },
+  "Corrupted Skynest": {
+    "name": "Corrupted Skynest",
+    "cost": "6",
+    "category": "Location",
+    "White": {
+      "pCp": "0.03"
+    },
+    "Green": {
+      "pCp": "0.05"
+    },
+    "Blue": {
+      "pCp": "0.06"
+    }
+  },
+  "Crayfish": {
+    "name": "Crayfish",
+    "cost": "4",
+    "category": "Fish",
+    "White": {
+      "cf": "6"
+    },
+    "Green": {
+      "cf": "9"
+    },
+    "Blue": {
+      "cf": "13"
+    }
+  },
+  "Crimson Essence": {
+    "name": "Crimson Essence",
+    "cost": "5",
+    "category": "Gathering",
+    "White": {
+      "mpInc": "148"
+    },
+    "Green": {
+      "mpInc": "222"
+    },
+    "Blue": {
+      "mpInc": "296"
+    }
+  },
+  "Dakuryon": {
+    "name": "Dakuryon",
+    "cost": "4",
+    "category": "Monster",
+    "type": "God",
+    "White": {
+      "mAmp": "1184",
+      "pAmp": "1777"
+    },
+    "Green": {
+      "mAmp": "1777",
+      "pAmp": "2666"
+    },
+    "Blue": {
+      "mAmp": "2369",
+      "pAmp": "3554"
+    }
+  },
+  "Demokraxus": {
+    "name": "Demokraxus",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Mag Creature",
+    "White": {
+      "pAmp": "1832"
+    },
+    "Green": {
+      "pAmp": "2748"
+    },
+    "Blue": {
+      "pAmp": "3664"
+    }
+  },
+  "Diamond Dragon": {
+    "name": "Diamond Dragon",
+    "cost": "3",
+    "category": "Mount",
+    "White": {
+      "pCp": "0.02"
+    },
+    "Green": {
+      "pCp": "0.03"
+    },
+    "Blue": {
+      "pCp": "0.04"
+    }
+  },
+  "Distortion Field": {
+    "name": "Distortion Field",
+    "cost": "4",
+    "category": "Location",
+    "White": {
+      "pCp": "0.01"
+    },
+    "Green": {
+      "pCp": "0.02"
+    },
+    "Blue": {
+      "pCp": "0.02"
+    }
+  },
+  "Dougal": {
+    "name": "Dougal",
+    "cost": "4",
+    "category": "Character",
+    "White": {
+      "mAmp": "1579",
+      "pAmp": "394"
+    },
+    "Green": {
+      "mAmp": "2369",
+      "pAmp": "592"
+    },
+    "Blue": {
+      "mAmp": "3159",
+      "pAmp": "789"
+    }
+  },
+  "Draakon Watcher": {
+    "name": "Draakon Watcher",
+    "cost": "7",
+    "category": "Monster",
+    "type": "Azart",
+    "White": {
+      "mAmp": "2838"
+    },
+    "Green": {
+      "mAmp": "4258"
+	},
+	"Blue": {
+      "mAmp": "5677"
+    }
+  },
+  "Edwin": {
+    "name": "Edwin",
+    "cost": "5",
+    "category": "Character",
+    "White": {
+      "pAmp": "957"
+    },
+    "Green": {
+      "pAmp": "2153"
+    },
+    "Blue": {
+      "pAmp": "3349"
+    }
+  },
+  "Eldritch Defender": {
+    "name": "Eldritch Defender",
+    "cost": "5",
+    "category": "Monster",
+    "type": "Demon",
+    "White": {
+      "mAmp": "718"
+    },
+    "Green": {
+      "mAmp": "1077"
+    },
+    "Blue": {
+      "mAmp": "1436"
+    }
+  },
+  "Energy Transfer Post": {
+    "name": "Energy Transfer Post",
+    "cost": "4",
+    "category": "Location",
+    "White": {
+      "pCp": "0.03"
+    },
+    "Green": {
+      "pCp": "0.04"
+    },
+    "Blue": {
+      "pCp": "0.06"
+    }
+  },
+  "Fire Dragon": {
+    "name": "Fire Dragon",
+    "cost": "3",
+    "category": "Mount",
+    "White": {
+      "pAmp": "1599"
+    },
+    "Green": {
+      "pAmp": "2398"
+    },
+    "Blue": {
+      "pAmp": "3198"
+    }
+  },
+  "Fire Lord's Chabmer": {
+    "name": "Fire Lord's Chabmer",
+    "cost": "5",
+    "category": "Location",
+    "White": {
+      "mCp": "0.01"
+    },
+    "Green": {
+      "mCp": "0.02"
+    },
+    "Blue": {
+      "mCp": "0.03"
+    }
+  },
+  "Flexis Hunter": {
+    "name": "Flexis Hunter",
+    "cost": "4",
+    "category": "Monster",
+    "type": "Argon",
+    "White": {
+      "mAmp": "2369"
+    },
+    "Green": {
+      "mAmp": "3849"
+    },
+    "Blue": {
+      "mAmp": "5330"
+    }
+  },
+  "Fraya": {
+    "name": "Fraya",
+    "cost": "3",
+    "category": "Character",
+    "Green": {
+      "mAmp": "2369"
+    }
+  },
+  "Gaaruksalk": {
+    "name": "Gaaruksalk",
+    "cost": "5",
+    "category": "Monster",
+    "type": "Mag Creature",
+    "White": {
+      "mAmp": "718",
+      "pAmp": "2873"
+    },
+    "Green": {
+      "mAmp": "1077",
+      "pAmp": "4310"
+    },
+    "Blue": {
+      "mAmp": "1436",
+      "pAmp": "5746"
+    }
+  },
+  "God of the Arena": {
+    "name": "God of the Arena",
+    "cost": "4",
+    "category": "Monster",
+    "type": "Ancestor",
+    "White": {
+      "pAmp": "1184"
+    },
+    "Green": {
+      "pAmp": "2664"
+    },
+    "Blue": {
+      "pAmp": "4144"
+    }
+  },
+  "God of the Arena: Forbidden Arena": {
+    "name": "God of the Arena: Forbidden Arena",
+    "cost": "4",
+    "category": "Location",
+    "White": {
+      "pCp": "0.02"
+    },
+    "Green": {
+      "pCp": "0.02"
+    },
+    "Blue": {
+      "pCp": "0.03"
+    }
+  },
+  "Goldenscale": {
+    "name": "Goldenscale",
+    "cost": "4",
+    "category": "Location",
+    "White": {
+      "mCp": "0.03"
+    },
+    "Green": {
+      "mCp": "0.04"
+    },
+    "Blue": {
+      "mCp": "0.06"
+    }
+  },
+  "Gossamer Regent": {
+    "name": "Gossamer Regent",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Mag Creature",
+    "White": {
+      "mAmp": "916",
+      "pAmp": "1374"
+    },
+    "Green": {
+      "mAmp": "1374",
+      "pAmp": "2061"
+    },
+    "Blue": {
+      "mAmp": "1832",
+      "pAmp": "2748"
+    }
+  },
+  "Gutrend Raider": {
+    "name": "Gutrend Raider",
+    "cost": "6",
+    "category": "Monster",
+    "type": "Beast",
+    "White": {
+      "pAmp": "1672"
+    },
+    "Green": {
+      "pAmp": "2508"
+    },
+    "Blue": {
+      "pAmp": "3344"
+    }
+  },
+  "Halrath": {
+    "name": "Halrath",
+    "cost": "4",
+    "category": "Character",
+    "White": {
+      "mAmp": "394",
+      "pAmp": "1579"
+    },
+    "Green": {
+      "mAmp": "592",
+      "pAmp": "2369"
+    },
+    "Blue": {
+      "mAmp": "789",
+      "pAmp": "3159"
+    }
+  },
+  "Harnovog": {
+    "name": "Harnovog",
+    "cost": "4",
+    "category": "Monster",
+    "type": "Demon",
+    "White": {
+      "pAmp": "592"
+    },
+    "Green": {
+      "pAmp": "888"
+    },
+    "Blue": {
+      "pAmp": "1184"
+    }
+  },
+  "Hasmina": {
+    "name": "Hasmina",
+    "cost": "4",
+    "category": "Character",
+    "Green": {
+      "pAmp": "3199"
+    }
+  },
+  "Hennika": {
+    "name": "Hennika",
+    "cost": "6",
+    "category": "Character",
+    "White": {
+      "pAmp": "1672"
+    },
+    "Green": {
+      "pAmp": "2508"
+    },
+    "Blue": {
+      "pAmp": "3344"
+    }
+  },
+  "Highwatch": {
+    "name": "Highwatch",
+    "cost": "3",
+    "category": "Location",
+    "White": {
+      "pCp": "0.02"
+    },
+    "Green": {
+      "pCp": "0.03"
+    },
+    "Blue": {
+      "pCp": "0.04"
+    }
+  },
+  "Ink Squid": {
+    "name": "Ink Squid",
+    "cost": "5",
+    "category": "Fish",
+    "White": {
+      "cf": "4"
+    },
+    "Green": {
+      "cf": "6"
+    },
+    "Blue": {
+      "cf": "8"
+    }
+  },
+  "Ironfang": {
+    "name": "Ironfang",
+    "cost": "4",
+    "category": "Monster",
+    "type": "Giant",
+    "White": {
+      "mAmp": "1184",
+      "pAmp": "1777"
+    },
+    "Green": {
+      "mAmp": "1777",
+      "pAmp": "2666"
+    },
+    "Blue": {
+      "mAmp": "2369",
+      "pAmp": "3554"
+    }
+  },
+  "Kaidun": {
+    "name": "Kaidun",
+    "cost": "7",
+    "category": "Monster",
+    "type": "Dragon",
+    "White": {
+      "pAmp": "1892"
+    },
+    "Green": {
+      "pAmp": "2838"
+    },
+    "Blue": {
+      "pAmp": "3785"
+    }
+  },
+  "Kalligar": {
+    "name": "Kalligar",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Azart",
+    "White": {
+      "pAmp": "1832"
+    },
+    "Green": {
+      "pAmp": "2748"
+    },
+    "Blue": {
+      "pAmp": "3664"
+    }
+  },
+  "Karba the Revered": {
+    "name": "Karba the Revered",
+    "cost": "3",
+    "category": "Character",
+    "White": {
+      "mAmp": "1221"
+    },
+    "Green": {
+      "mAmp": "1832"
+    },
+    "Blue": {
+      "mAmp": "2443"
+    }
+  },
+  "Karihne": {
+    "name": "Karihne",
+    "cost": "2",
+    "category": "Character",
+    "White": {
+      "mAmp": "419"
+    },
+    "Green": {
+      "mAmp": "629"
+    },
+    "Blue": {
+      "mAmp": "839"
+    }
+  },
+  "Kylos": {
+    "name": "Kylos",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Dragon",
+    "White": {
+      "mAmp": "1374",
+      "pAmp": "916"
+    },
+    "Green": {
+      "mAmp": "2061",
+      "pAmp": "1374"
+    },
+    "Blue": {
+      "mAmp": "2748",
+      "pAmp": "1832"
+    }
+  },
+  "Lakan": {
+    "name": "Lakan",
+    "cost": "4",
+    "category": "Monster",
+    "type": "God",
+    "White": {
+      "pAmp": "1184"
+    },
+    "Green": {
+      "pAmp": "2664"
+    },
+    "Blue": {
+      "pAmp": "4144"
+    }
+  },
+  "LB-1": {
+    "name": "LB-1",
+    "cost": "4",
+    "category": "Monster",
+    "type": "Mag Device",
+    "White": {
+      "mAmp": "2962"
+    },
+    "Green": {
+      "mAmp": "4443"
+    },
+    "Blue": {
+      "mAmp": "5924"
+    }
+  },
+  "Legate Mureksark": {
+    "name": "Legate Mureksark",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Giant",
+    "White": {
+      "mAmp": "458",
+      "pAmp": "1832"
+    },
+    "Green": {
+      "mAmp": "687",
+      "pAmp": "2748"
+    },
+    "Blue": {
+      "mAmp": "916",
+      "pAmp": "3664"
+    }
+  },
+  "Lilith": {
+    "name": "Lilith",
+    "cost": "2",
+    "category": "Monster",
+    "type": "Demon",
+    "White": {
+      "pAmp": "1574"
+    },
+    "Green": {
+      "pAmp": "2361"
+    },
+    "Blue": {
+      "pAmp": "3148"
+    }
+  },
+  "Maknakh": {
+    "name": "Maknakh",
+    "cost": "2",
+    "category": "Monster",
+    "type": "Azart",
+    "White": {
+      "pAmp": "1574"
+    },
+    "Green": {
+      "pAmp": "2361"
+    },
+    "Blue": {
+      "pAmp": "3148"
+    }
+  },
+  "Melony": {
+    "name": "Melony",
+    "cost": "6",
+    "category": "Character",
+    "White": {
+      "mAmp": "1672"
+    },
+    "Green": {
+      "mAmp": "2508"
+    },
+    "Blue": {
+      "mAmp": "3344"
+    }
+  },
+  "Moongourd Pulp": {
+    "name": "Moongourd Pulp",
+    "cost": "7",
+    "category": "Gathering",
+    "White": {
+      "mpInc": "252"
+    },
+    "Green": {
+      "mpInc": "379"
+    },
+    "Blue": {
+      "mpInc": "505"
+    }
+  },
+  "Mottled Ray": {
+    "name": "Mottled Ray",
+    "cost": "3",
+    "category": "Fish",
+    "White": {
+      "cf": "2"
+    },
+    "Green": {
+      "cf": "4"
+    },
+    "Blue": {
+      "cf": "5"
+    }
+  },
+  "Murderwing": {
+    "name": "Murderwing",
+    "cost": "6",
+    "category": "Monster",
+    "type": "Faerie",
+    "White": {
+      "pAmp": "3344"
+    },
+    "Green": {
+      "pAmp": "5017"
+    },
+    "Blue": {
+      "pAmp": "6689"
+    }
+  },
+  "Murderwing Larvae": {
+    "name": "Murderwing Larvae",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Faerie",
+    "White": {
+      "mAmp": "916"
+    },
+    "Green": {
+      "mAmp": "1374"
+    },
+    "Blue": {
+      "mAmp": "1832"
+    }
+  },
+  "Nautiloid": {
+    "name": "Nautiloid",
+    "cost": "4",
+    "category": "Fish",
+    "White": {
+      "cf": "5"
+    },
+    "Green": {
+      "cf": "7"
+    },
+    "Blue": {
+      "cf": "9"
+    }
+  },
+  "Nightmare Kelsaik": {
+    "name": "Nightmare Kelsaik",
+    "cost": "6",
+    "category": "Monster",
+    "type": "Argon",
+    "White": {
+      "mAmp": "3344"
+    },
+    "Green": {
+      "mAmp": "5017"
+    },
+    "Blue": {
+      "mAmp": "6689"
+    }
+  },
+  "Normetal Ore": {
+    "name": "Normetal Ore",
+    "cost": "4",
+    "category": "Gathering",
+    "White": {
+      "mpInc": "118"
+    },
+    "Green": {
+      "mpInc": "177"
+    },
+    "Blue": {
+      "mpInc": "236"
+    }
+  },
+  "Obsidian Essence": {
+    "name": "Obsidian Essence",
+    "cost": "5",
+    "category": "Gathering",
+    "White": {
+      "mpInc": "216"
+    },
+    "Green": {
+      "mpInc": "324"
+    },
+    "Blue": {
+      "mpInc": "432"
+    }
+  },
+  "Paesyn": {
+    "name": "Paesyn",
+    "cost": "7",
+    "category": "Character",
+    "White": {
+      "mAmp": "1892",
+      "pAmp": "1261"
+    },
+    "Green": {
+      "mAmp": "2838",
+      "pAmp": "1892"
+    },
+    "Blue": {
+      "mAmp": "3785",
+      "pAmp": "2523"
+    }
+  },
+  "Priest": {
+    "name": "Priest",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Azart",
+    "White": {
+      "mAmp": "1832"
+    },
+    "Green": {
+      "mAmp": "2748"
+    },
+    "Blue": {
+      "mAmp": "3664"
+    }
+  },
+  "Prismar Watcher": {
+    "name": "Prismar Watcher",
+    "cost": "5",
+    "category": "Monster",
+    "type": "Mag Device",
+    "White": {
+      "pAmp": "2873"
+    },
+    "Green": {
+      "pAmp": "4310"
+    },
+    "Blue": {
+      "pAmp": "5746"
+    }
+  },
+  "Rainbow Anemone": {
+    "name": "Rainbow Anemone",
+    "cost": "7",
+    "category": "Fish",
+    "White": {
+      "cf": "9"
+    },
+    "Green": {
+      "cf": "14"
+    },
+    "Blue": {
+      "cf": "18"
+    }
+  },
+  "Red-Flecked Crab": {
+    "name": "Red-Flecked Crab",
+    "cost": "2",
+    "category": "Monster",
+    "type": "Azart",
+    "White": {
+      "mAmp": "629"
+    },
+    "Green": {
+      "mAmp": "944"
+    },
+    "Blue": {
+      "mAmp": "1259"
+    }
+  },
+  "Regent's Vault": {
+    "name": "Regent's Vault",
+    "cost": "4",
+    "category": "Location",
+    "White": {
+      "mCp": "0.02"
+    },
+    "Green": {
+      "mCp": "0.02"
+	},
+	"Blue": {
+      "mCp": "0.03"
+    }
+  },
+  "Rhodos": {
+    "name": "Rhodos",
+    "cost": "3",
+    "category": "Character",
+    "Green": {
+      "pAmp": "2369"
+    }
+  },
+  "RK-9": {
+    "name": "RK-9",
+    "cost": "4",
+    "category": "Monster",
+    "type": "Mag Device",
+    "White": {
+      "mAmp": "1777"
+    },
+    "Green": {
+      "mAmp": "2666"
+    },
+    "Blue": {
+      "mAmp": "3554"
+    }
+  },
+  "Rogash's Garden": {
+    "name": "Rogash's Garden",
+    "cost": "3",
+    "category": "Location",
+    "White": {
+      "mCp": "0.02"
+    },
+    "Green": {
+      "mCp": "0.03"
+    },
+    "Blue": {
+      "mCp": "0.04"
+    }
+  },
+  "Runaway Pigling": {
+    "name": "Runaway Pigling",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Faerie",
+    "White": {
+      "mAmp": "1374",
+      "pAmp": "916"
+    },
+    "Green": {
+      "mAmp": "2061",
+      "pAmp": "1374"
+    },
+    "Blue": {
+      "mAmp": "2748",
+      "pAmp": "1832"
+    }
+  },
+  "Samael": {
+    "name": "Samael",
+    "cost": "3",
+    "category": "Character",
+    "White": {
+      "pAmp": "1221"
+    },
+    "Green": {
+      "pAmp": "1832"
+    },
+    "Blue": {
+      "pAmp": "2443"
+    }
+  },
+  "Sea Anemone": {
+    "name": "Sea Anemone",
+    "cost": "7",
+    "category": "Fish",
+    "White": {
+      "cf": "8"
+    },
+    "Green": {
+      "cf": "11"
+    },
+    "Blue": {
+      "cf": "15"
+    }
+  },
+  "Seren's Garden": {
+    "name": "Seren's Garden",
+    "cost": "7",
+    "category": "Location",
+    "White": {
+      "mCp": "0.04"
+    },
+    "Green": {
+      "mCp": "0.05"
+    },
+    "Blue": {
+      "mCp": "0.07"
+    }
+  },
+  "Sikandari Defender": {
+    "name": "Sikandari Defender",
+    "cost": "6",
+    "category": "Monster",
+    "type": "Giant",
+    "White": {
+      "mAmp": "2508"
+    },
+    "Green": {
+      "mAmp": "3762"
+    },
+    "Blue": {
+      "mAmp": "5017"
+    }
+  },
+  "Silverscale Wolf": {
+    "name": "Silverscale Wolf",
+    "cost": "2",
+    "category": "Monster",
+    "type": "Beast",
+    "White": {
+      "mAmp": "629"
+    },
+    "Green": {
+      "mAmp": "944"
+    },
+    "Blue": {
+      "mAmp": "1259"
+    }
+  },
+  "Spirit Dragon": {
+    "name": "Spirit Dragon",
+    "cost": "3",
+    "category": "Mount",
+    "White": {
+      "mCp": "0.02"
+    },
+    "Green": {
+      "mCp": "0.03"
+    },
+    "Blue": {
+      "mCp": "0.04"
+    }
+  },
+  "Starlight Festival Elin": {
+    "name": "Starlight Festival Elin",
+    "cost": "4",
+    "category": "Character",
+    "Green": {
+      "mAmp": "2666",
+      "pAmp": "296"
+    }
+  },
+  "Syona": {
+    "name": "Syona",
+    "cost": "4",
+    "category": "Character",
+    "Green": {
+      "mAmp": "3199"
+    }
+  },
+  "Teal Arkai": {
+    "name": "Teal Arkai",
+    "cost": "5",
+    "category": "Monster",
+    "type": "Dragon",
+    "White": {
+      "mAmp": "2155"
+    },
+    "Green": {
+      "mAmp": "3232"
+    },
+    "Blue": {
+      "mAmp": "4310"
+    }
+  },
+  "Titus": {
+    "name": "Titus",
+    "cost": "5",
+    "category": "Character",
+    "White": {
+      "mAmp": "1197",
+      "pAmp": "1197"
+    },
+    "Green": {
+      "mAmp": "1795",
+      "pAmp": "1795"
+    },
+    "Blue": {
+      "mAmp": "2394",
+      "pAmp": "2394"
+    }
+  },
+  "Training Center: Draakon Arena": {
+    "name": "Training Center: Draakon Arena",
+    "cost": "6",
+    "category": "Location",
+    "White": {
+      "pCp": "0.04"
+    },
+    "Green": {
+      "pCp": "0.06"
+    },
+    "Blue": {
+      "pCp": "0.08"
+    }
+  },
+  "Trihorn Dracoloth": {
+    "name": "Trihorn Dracoloth",
+    "cost": "5",
+    "category": "Monster",
+    "type": "Dragon",
+    "White": {
+      "pAmp": "2155"
+    },
+    "Green": {
+      "pAmp": "3232"
+    },
+    "Blue": {
+      "pAmp": "4310"
+    }
+  },
+  "Vampir Jester": {
+    "name": "Vampir Jester",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Faerie",
+    "White": {
+      "pAmp": "916"
+    },
+    "Green": {
+      "pAmp": "916"
+    },
+    "Blue": {
+      "pAmp": "916"
+    }
+  },
+  "Wendigo Frostweaver": {
+    "name": "Wendigo Frostweaver",
+    "cost": "6",
+    "category": "Monster",
+    "type": "Beast",
+    "White": {
+      "mAmp": "1672"
+    },
+    "Green": {
+      "mAmp": "2508"
+    },
+    "Blue": {
+      "mAmp": "3344"
+    }
+  },
+  "Zemces": {
+    "name": "Zemces",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Azart",
+    "White": {
+      "pAmp": "1374"
+    },
+    "Green": {
+      "pAmp": "2519"
+    },
+    "Blue": {
+      "pAmp": "3664"
+    }
+  },
+  "Zolyn": {
+    "name": "Zolyn",
+    "cost": "4",
+    "category": "Character",
+    "White": {
+      "mAmp": "789"
+    },
+    "Green": {
+      "mAmp": "1777"
+    },
+    "Blue": {
+      "mAmp": "2764"
+    }
+  }
+}
