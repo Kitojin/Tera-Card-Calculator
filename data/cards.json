@@ -887,6 +887,24 @@
       "pAmp": "3148"
     }
   },
+  "Lumikan": {
+    "name": "Lumikan",
+    "cost": "3",
+    "category": "Monster",
+    "type": "Azart",
+    "White": {
+      "mAmp": "1832",
+      "pAmp": "1832"
+    },
+    "Green": {
+      "mAmp": "2748",
+      "pAmp": "2748"
+    },
+    "Blue": {
+      "mAmp": "3664",
+      "pAmp": "3664"
+    }
+  },
   "Maknakh": {
     "name": "Maknakh",
     "cost": "2",
@@ -1292,6 +1310,23 @@
     },
     "Blue": {
       "mAmp": "4310"
+    }
+  },
+  "The Catalepticon": {
+    "name": "The Catalepticon",
+    "cost": "5",
+    "category": "Location",
+    "White": {
+      "mCp": "0.05",
+      "pCp": "-0.04"
+    },
+    "Green": {
+      "mCp": "0.07",
+      "pCp": "-0.04"
+    },
+    "Blue": {
+      "mCp": "0.09",
+      "pCp": "-0.04"
     }
   },
   "Titus": {
